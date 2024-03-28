@@ -4,6 +4,7 @@ public class operators_MOD {
 	int res1,res2,res6;
 	float res3, res4,res5;
 	
+	
 	public int displayMOD_intOne()
 	{
 		int a=102;
